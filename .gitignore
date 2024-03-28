@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+
+# Pipenv environment
+.Python
+Pipfile.lock
+
+# Pyenv environment
+.python-version
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Jupyter Notebook settings
+.ipynb_checkpoints
